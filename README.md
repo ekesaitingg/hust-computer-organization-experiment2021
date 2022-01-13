@@ -1,5 +1,5 @@
 # hust-computer-organization-experiment2021
-华中科技大学计算机组成原理2019级
+华中科技大学计算机组成原理实验2019级
 
 实验资料下载地址：https://gitee.com/totalcontrol/hustzc/
 <br>
